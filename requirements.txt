@@ -1,0 +1,8 @@
+dataclasses
+typing
+fastapi[standart]
+uvicorn[standard]
+scikit-learn
+joblib
+pydantic
+pandas
